@@ -1,0 +1,103 @@
+{
+	"info": [{
+		"url": "abuhider",
+		"name": "Abu Hider Rony",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "Left-arm fast-medium",
+		"Batting_Average_T20": 14.00,
+		"Bowling_Average_T20": 34.00,
+		"Batting_Average_ODI": 16.00,
+		"Bowling_Average_ODI": 16.55,
+		"role": "Bowler"
+	}, {
+		"url": "sakib",
+		"name": "Shakib Al Hasan",
+		"Batting_Style": "Left-hand bat",
+		"Bowling_Style": "Slow left-arm orthodox",
+		"Batting_Average_T20": 23.97,
+		"Bowling_Average_T20": 20.33,
+		"Batting_Average_ODI": 35.18,
+		"Bowling_Average_ODI": 27.89,
+		"role": "Allrounder"
+	}, {
+		"url": "sabbir",
+		"name": "Md. Sabbir Rahman",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "Legbreak",
+		"Batting_Average_T20": 30.20,
+		"Bowling_Average_T20": 11.66,
+		"Batting_Average_ODI": 32.13,
+		"Bowling_Average_ODI": 86.50,
+		"role": "batsman"
+	}, {
+		"url": "mushfick",
+		"name": "Md. Mushfiqur Rahim",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "No",
+		"Batting_Average_T20": 17.57,
+		"Bowling_Average_T20": 0,
+		"Batting_Average_ODI": 31.61,
+		"Bowling_Average_ODI": 0,
+		"role": "Wicketkeeper"
+	}, {
+		"url": "arafatsunny",
+		"name": "Arafat Sunny",
+		"Batting_Style": "Left-hand bat",
+		"Bowling_Style": "Slow left-arm orthodox",
+		"Batting_Average_T20": 11.33,
+		"Bowling_Average_T20": 19.16,
+		"Batting_Average_ODI": 12.00,
+		"Bowling_Average_ODI": 25.00,
+		"role": "Bowler"
+	}, {
+		"url": "mahmudullah",
+		"name": "Mohammad Mahmudullah",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "Right-arm offbreak",
+		"Batting_Average_T20": 19.05,
+		"Bowling_Average_T20": 29.38,
+		"Batting_Average_ODI": 33.23,
+		"Bowling_Average_ODI": 43.30,
+		"role": "Allrounder"
+	}, {
+		"url": "mashrafee",
+		"name": "Mashrafe Bin Mortaza",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "Right-arm fast-medium",
+		"Batting_Average_T20": 14.64,
+		"Bowling_Average_T20": 35.86,
+		"Batting_Average_ODI": 14.56,
+		"Bowling_Average_ODI": 30.76,
+		"role": "Bowler"
+	}, {
+		"url": "ashraful",
+		"name": "Mohammad Ashraful",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "Right-arm offbreak, Legbreak",
+		"Batting_Average_T20": 19.56,
+		"Bowling_Average_T20": 26.25,
+		"Batting_Average_ODI": 22.23,
+		"Bowling_Average_ODI": 36.72,
+		"role": "batsman"
+	}, {
+		"url": "liton",
+		"name": "Liton Kumar Das",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "No",
+		"Batting_Average_T20": 16.33,
+		"Bowling_Average_T20": 0,
+		"Batting_Average_ODI": 15.50,
+		"Bowling_Average_ODI": 0,
+		"role": "Wicketkeeper"
+	}, {
+		"url": "taskin",
+		"name": "Taskin Ahmed",
+		"Batting_Style": "Right-hand bat",
+		"Bowling_Style": "Right-arm fast-medium",
+		"Batting_Average_T20": 11.00,
+		"Bowling_Average_T20": 24.20,
+		"Batting_Average_ODI": 18.04,
+		"Bowling_Average_ODI": 20.55,
+		"role": "Bowler"
+	}]
+}

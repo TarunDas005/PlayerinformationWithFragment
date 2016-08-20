@@ -1,0 +1,96 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jannat.playerinformationwithfragment.PlayerDetailsFragment">
+
+    <ImageView
+        android:layout_marginTop="15dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageView"
+        android:src="@drawable/sakib"/>
+    <TextView
+        android:textSize="30dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Name"
+        android:id="@+id/nameTextView"
+        android:layout_below="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Batting Style"
+        android:id="@+id/battingStyleTextView"
+        android:layout_below="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Bowling Style"
+        android:id="@+id/bowlingStyleTextView"
+        android:layout_below="@+id/battingStyleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Bat In T20"
+        android:id="@+id/battingAverageT20TextView"
+        android:layout_below="@+id/bowlingStyleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Bat In ODI"
+        android:id="@+id/battingAverageODITextView"
+        android:layout_below="@+id/battingAverageT20TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Bow In T20"
+        android:id="@+id/bowlingAverageT20TextView"
+        android:layout_below="@+id/battingAverageODITextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Bow In ODI"
+        android:id="@+id/bowlingAverageODITextView"
+        android:layout_below="@+id/bowlingAverageT20TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20dp"
+        android:textColor="#cc00c5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Role"
+        android:id="@+id/roleTextView"
+        android:layout_below="@+id/bowlingAverageODITextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>
